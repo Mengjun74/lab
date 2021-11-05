@@ -1,6 +1,2 @@
-# lab1
-Phys_434_Lab1
-
-modified
-
-test
+# lab4
+Phys_434_Lab4
