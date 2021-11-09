@@ -1,6 +1,3 @@
-# lab1
-Phys_434_Lab1
+# Phys_434_Labs
 
-modified
-
-test
+every lab is in different branch.
