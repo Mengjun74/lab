@@ -1,3 +1,3 @@
-# Phys_434_Labs
+# Phys_434_Labs 
 
-every lab is in different branch.
+lab 7
