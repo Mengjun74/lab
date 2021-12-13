@@ -1,2 +1,2 @@
 # lab
-Phys_434_Lab3
+Phys_434_Lab7&8
